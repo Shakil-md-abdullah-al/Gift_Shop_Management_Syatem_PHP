@@ -13,8 +13,8 @@
 <h5>1. Introduction</h5>
 <h5>2. Requirement</h5>
 <h5>3. Setup and Configuration</h5>
-<h5>5. Screenshots</h5>
-<h5>6. Additionals</h5>
+<h5>4. Screenshots</h5>
+<h5>5. Additionals</h5>
 
 <h2>1. Introduction</h2>
 </hr>
