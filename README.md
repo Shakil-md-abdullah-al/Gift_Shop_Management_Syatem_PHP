@@ -18,6 +18,7 @@
 
 <h2>1. Introduction</h2>
 </hr>
+If you are new to PHP and want to start a project with PHP then follow the process to run most smoothly.
 
 
 
