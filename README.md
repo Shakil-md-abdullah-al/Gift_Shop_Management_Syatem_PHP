@@ -30,8 +30,11 @@ If you are new to PHP and want to start a project with PHP then follow the proce
 <h2>3. Setup and Configuration</h2>
 </hr>
 1. Keep the project file in your **htdocs** directory.
-![image](https://github.com/user-attachments/assets/452f4cce-b8a7-46e3-82d5-5a4a034cc073)
-![1](https://github.com/user-attachments/assets/8325b06d-63f3-441f-bc37-05bb4cef720a)
+![1](https://github.com/user-attachments/assets/6c55c5e5-1b86-411b-9a84-9e606c2edfd1)
+![Screenshot_2](https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6)
+![pngtree-old-classic-car-art-in-the-woods-17-jpg-files-in-image_2671047](https://github.com/user-attachments/assets/4dfbe784-fb4e-4e94-bc94-f48baef173cf)
+
+
 
 
 
