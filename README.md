@@ -30,7 +30,7 @@ If you are new to PHP and want to start a project with PHP then follow the proce
 <h2>3. Setup and Configuration</h2>
 </hr>
 1. Keep the project file in your **htdocs** directory.
-![image](https://github.com/user-attachments/assets/92c92f23-96da-483c-9c01-beb178d943b7)
+![image](https://github.com/user-attachments/assets/1.PNG)
 
 
 
