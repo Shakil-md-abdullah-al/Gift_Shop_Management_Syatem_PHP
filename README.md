@@ -30,7 +30,9 @@ If you are new to PHP and want to start a project with PHP then follow the proce
 <h2>3. Setup and Configuration</h2>
 </hr>
 1. Keep the project file in your **htdocs** directory.
-![image](https://github.com/Shakil-md-abdullah-al/Gift_Shop_Management_Syatem_PHP/tree/main/assets/1.PNG)
+![image](https://github.com/user-attachments/assets/452f4cce-b8a7-46e3-82d5-5a4a034cc073)
+![1](https://github.com/user-attachments/assets/8325b06d-63f3-441f-bc37-05bb4cef720a)
+
 
 
 
