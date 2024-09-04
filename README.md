@@ -22,8 +22,10 @@ If you are new to PHP and want to start a project with PHP then follow the proce
 
 <h2>2. Requirements</h2>
 </hr>
+<pre>
 1. <a href="[https://www.w3schools.com](https://www.apachefriends.org/download.html)">XAMPP Server</a>
 2. Visual Studio Code/ Any Text Editor
+</pre>
 
 
 
