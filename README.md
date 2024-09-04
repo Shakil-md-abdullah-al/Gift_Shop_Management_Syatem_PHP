@@ -29,6 +29,7 @@ If you are new to PHP and want to start a project with PHP then follow the proce
 
 <h2>3. Setup and Configuration</h2>
 </hr>
+<!-- Image file not working for some unknown reasin -->
 1. Keep the project file in your **htdocs** directory.
 ![1](https://github.com/user-attachments/assets/b110cb3a-abdf-425f-88b3-b2d89c5a5b4e)
 
